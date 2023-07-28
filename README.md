@@ -1,6 +1,6 @@
 <div>
-    <h1 text aling = "center">Hi 👋, I'm Wilson</h1>
-    <h3 text aling = "center">I am passionate about technology and the world of possibilities that programming presents, a fan of Iro Man. 
+    <h1 text align = "center">Hi 👋, I'm Wilson</h1>
+    <h3 text align = "center">I am passionate about technology and the world of possibilities that programming presents, inspired by Tony Stark. 
     </h3>
 </div>
 
