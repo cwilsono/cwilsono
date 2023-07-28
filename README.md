@@ -8,7 +8,7 @@
 
 ###  About Me:
 
-- 📚 I’m currently studying at https://www.aluracursos.com/
+- 📚 I’m currently studying at https : https://www.aluracursos.com/
 - 🌱 I'm Practicing in Javascript, CSS and HTML
 - 🤔 I’m looking for study partners 
 - 🕵🏻️ I have an interest in cybersecurity
